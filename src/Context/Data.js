@@ -149,10 +149,10 @@ export const projects=[
     },
     {
         id:4,
-        extlink:'https://autosafe.netlify.com/',
-        img:"/photos/safe-banner.jpg",
-        title:'Html, css, javascript project',
-        btnTitle:"Autosafe",
+        extlink:'https://facebook-clone-65b8a.web.app/',
+        img:"/photos/fb-clone.jpg",
+        title:'React',
+        btnTitle:"fb-clone",
         cat:'Html-Css'
     },
     {
